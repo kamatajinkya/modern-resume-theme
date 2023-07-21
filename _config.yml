@@ -12,8 +12,8 @@ email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: https://drive.google.com/file/d/1AvrHMS7JnR9n-yXvtBx13-8yaofVLTK-/view?usp=sharing
+website_title: Resume
 
 # Dark Mode (true/false/never)
 darkmode: false
